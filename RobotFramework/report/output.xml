@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.2 (Python 3.9.0 on win32)" generated="20210420 17:57:24.838" rpa="false">
+<suite id="s1" name="Test Smoke" source="E:\15feb2021\RobotFramework\test_smoke.robot">
+<kw name="Run Keywords" library="BuiltIn" type="setup">
+<doc>Executes all the given keywords in a sequence.</doc>
+<arguments>
+<arg>Open Browser</arg>
+<arg>https://www.google.co.in</arg>
+<arg>chrome</arg>
+<arg>AND</arg>
+<arg>Sleep</arg>
+<arg>2s</arg>
+</arguments>
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<arguments>
+<arg>https://www.google.co.in</arg>
+<arg>chrome</arg>
+</arguments>
+<msg timestamp="20210420 17:57:24.992" level="INFO">Opening browser 'chrome' to base url 'https://www.google.co.in'.</msg>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20210420 17:57:28.259" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<status status="PASS" starttime="20210420 17:57:28.259" endtime="20210420 17:57:28.259"></status>
+</kw>
+<msg timestamp="20210420 17:57:28.263" level="FAIL">SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 90.0.4430.72 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+</msg>
+<status status="FAIL" starttime="20210420 17:57:24.992" endtime="20210420 17:57:28.263"></status>
+</kw>
+<status status="FAIL" starttime="20210420 17:57:24.991" endtime="20210420 17:57:28.264"></status>
+</kw>
+<test id="s1-t1" name="Seach Content">
+<status status="FAIL" starttime="20210420 17:57:28.264" endtime="20210420 17:57:28.265" critical="yes">Parent suite setup failed:
+SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 90.0.4430.72 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+</status>
+</test>
+<test id="s1-t2" name="Click on Search Button">
+<status status="FAIL" starttime="20210420 17:57:28.267" endtime="20210420 17:57:28.268" critical="yes">Parent suite setup failed:
+SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 90.0.4430.72 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+</status>
+</test>
+<doc>Suite description</doc>
+<status status="FAIL" starttime="20210420 17:57:24.840" endtime="20210420 17:57:28.270">Suite setup failed:
+SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 90.0.4430.72 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+</status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="2">Critical Tests</stat>
+<stat pass="0" fail="2">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="2" id="s1" name="Test Smoke">Test Smoke</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
