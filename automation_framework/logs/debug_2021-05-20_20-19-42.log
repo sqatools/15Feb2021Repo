@@ -1,0 +1,9 @@
+2021-05-20 20:19:43 [INFO] : test_booking_feature.py:10 :: ___________TestBusBooking_________
+2021-05-20 20:19:48 [INFO] : test_booking_feature.py:12 :: test case : test_book_bus_and_verify : start
+2021-05-20 20:19:48 [INFO] : selenium_code.py:49 :: enter text to given element :('txtSource', 'id')
+2021-05-20 20:19:48 [INFO] : selenium_code.py:58 :: Element found :('txtSource', 'id')
+2021-05-20 20:19:48 [INFO] : selenium_code.py:59 :: sending text to :('txtSource', 'id')
+2021-05-20 20:19:48 [INFO] : selenium_code.py:29 :: click to given element: ("//li[contains(text(), 'Swargate, ')]/strong[text()='Pune']", 'xpath')
+2021-05-20 20:19:49 [INFO] : selenium_code.py:39 :: Element found :("//li[contains(text(), 'Swargate, ')]/strong[text()='Pune']", 'xpath')
+2021-05-20 20:19:49 [INFO] : selenium_code.py:40 :: Clicking on element :("//li[contains(text(), 'Swargate, ')]/strong[text()='Pune']", 'xpath')
+2021-05-20 20:19:54 [INFO] : test_booking_feature.py:16 :: test case : test_book_bus_and_verify : finish

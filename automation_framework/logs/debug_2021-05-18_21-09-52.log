@@ -1,0 +1,3 @@
+2021-05-18 21:10:01 [INFO] : selenium_code.py:29 :: click to given element: ("//td[text()='6010']//parent::tr//input", 'xpath')
+2021-05-18 21:10:01 [INFO] : selenium_code.py:39 :: Element found :("//td[text()='6010']//parent::tr//input", 'xpath')
+2021-05-18 21:10:01 [INFO] : selenium_code.py:40 :: Clicking on element :("//td[text()='6010']//parent::tr//input", 'xpath')

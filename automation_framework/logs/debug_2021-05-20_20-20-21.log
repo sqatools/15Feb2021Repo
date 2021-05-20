@@ -1,0 +1,25 @@
+2021-05-20 20:20:23 [INFO] : test_dummy_booking.py:11 :: ___________TestDummyBooking________
+2021-05-20 20:20:27 [INFO] : test_dummy_booking.py:14 :: test cases : test_provide_passenger_entry : start
+2021-05-20 20:20:27 [INFO] : selenium_code.py:49 :: enter text to given element :('travname', 'id')
+2021-05-20 20:20:27 [INFO] : selenium_code.py:58 :: Element found :('travname', 'id')
+2021-05-20 20:20:27 [INFO] : selenium_code.py:59 :: sending text to :('travname', 'id')
+2021-05-20 20:20:27 [INFO] : selenium_code.py:49 :: enter text to given element :('travlastname', 'id')
+2021-05-20 20:20:27 [INFO] : selenium_code.py:58 :: Element found :('travlastname', 'id')
+2021-05-20 20:20:27 [INFO] : selenium_code.py:59 :: sending text to :('travlastname', 'id')
+2021-05-20 20:20:28 [INFO] : test_dummy_booking.py:19 :: test cases : test_provide_passenger_entry : finish
+2021-05-20 20:20:28 [INFO] : test_dummy_booking.py:22 :: test cases : test_select_date_of_birth_and_other_info : start
+2021-05-20 20:20:28 [INFO] : selenium_code.py:29 :: click to given element: ('dob', 'id')
+2021-05-20 20:20:28 [INFO] : selenium_code.py:39 :: Element found :('dob', 'id')
+2021-05-20 20:20:28 [INFO] : selenium_code.py:40 :: Clicking on element :('dob', 'id')
+2021-05-20 20:20:28 [INFO] : selenium_code.py:29 :: click to given element: ('28', 'link')
+2021-05-20 20:20:28 [INFO] : selenium_code.py:39 :: Element found :('28', 'link')
+2021-05-20 20:20:28 [INFO] : selenium_code.py:40 :: Clicking on element :('28', 'link')
+2021-05-20 20:20:28 [INFO] : selenium_code.py:29 :: click to given element: ('sex_1', 'id')
+2021-05-20 20:20:28 [INFO] : selenium_code.py:39 :: Element found :('sex_1', 'id')
+2021-05-20 20:20:28 [INFO] : selenium_code.py:40 :: Clicking on element :('sex_1', 'id')
+2021-05-20 20:20:30 [INFO] : test_dummy_booking.py:26 :: test cases : test_select_date_of_birth_and_other_info : finish
+2021-05-20 20:20:30 [INFO] : test_dummy_booking.py:29 :: test cases : test_select_more_passenger : start
+2021-05-20 20:20:30 [INFO] : selenium_code.py:29 :: click to given element: ('addmorepax', 'id')
+2021-05-20 20:20:30 [INFO] : selenium_code.py:39 :: Element found :('addmorepax', 'id')
+2021-05-20 20:20:30 [INFO] : selenium_code.py:40 :: Clicking on element :('addmorepax', 'id')
+2021-05-20 20:20:35 [INFO] : test_dummy_booking.py:32 :: test cases : test_select_more_passenger : finish

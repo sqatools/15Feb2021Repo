@@ -1,0 +1,3 @@
+2021-05-20 20:17:49 [INFO] : test_booking_feature.py:10 :: ___________TestBusBooking_________
+2021-05-20 20:17:51 [INFO] : test_booking_feature.py:12 :: test case : test_book_bus_and_verify : start
+2021-05-20 20:17:51 [INFO] : selenium_code.py:49 :: enter text to given element :('txtSource', 'id')
