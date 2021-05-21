@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abe9a278-8e52-4101-84d0-89bb7c56950c" name="Default Changelist" comment="" />
+    <list default="true" id="abe9a278-8e52-4101-84d0-89bb7c56950c" name="Default Changelist" comment="Added new python files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,20 +19,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1oet3sCIOIJWDeaLyAyXnVxU2WD" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\15feb2021\automation_framework\tests" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\15feb2021\GitRepo\15Feb2021Repo" />
       <recent name="E:\15feb2021\automation_framework" />
       <recent name="E:\15feb2021\booking_website\automation_code" />
       <recent name="E:\15feb2021\automation_framework\utilities" />
-      <recent name="E:\15feb2021\automation_framework\tests" />
-      <recent name="E:\15feb2021\automation_framework\modules" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\15feb2021\automation_framework\tests" />
     </key>
   </component>
@@ -174,6 +180,19 @@
       <updated>1613658687040</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
